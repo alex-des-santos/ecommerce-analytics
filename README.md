@@ -1,4 +1,4 @@
-# 📊 Ecommerce Analytics — Metabase Dashboards
+# Ecommerce Analytics — Metabase Dashboards
 
 > **5 dashboards profissionais de ecommerce criados automaticamente via API do Metabase**, cobrindo vendas, produtos, clientes, conversão e análise financeira.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Visão Geral
+## Visão Geral
 
 Este projeto automatiza a criação de dashboards analíticos para ecommerce no Metabase utilizando a API REST. Em vez de criar cada gráfico manualmente pela interface, todos os **50+ cards** distribuídos em **5 dashboards temáticos** são gerados programaticamente via Python.
 
@@ -25,7 +25,7 @@ Este projeto automatiza a criação de dashboards analíticos para ecommerce no 
 
 ---
 
-## 📈 Métricas em Destaque
+## Métricas em Destaque
 
 Os dashboards revelam insights como:
 
@@ -38,7 +38,7 @@ Os dashboards revelam insights como:
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 ecommerce-analytics/
@@ -54,7 +54,7 @@ ecommerce-analytics/
 
 ---
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Pré-requisitos
 
@@ -87,7 +87,7 @@ python scripts/add_cards_to_dashboards.py
 
 ---
 
-## 🗄️ Schema de Dados
+## Schema de Dados
 
 O projeto utiliza o **Sample Database** do Metabase (H2), que simula dados reais de ecommerce:
 
@@ -104,7 +104,7 @@ O projeto utiliza o **Sample Database** do Metabase (H2), que simula dados reais
 
 ---
 
-## 🔧 Detalhes Técnicos
+## Detalhes Técnicos
 
 ### Endpoints da API Utilizados
 
@@ -124,7 +124,7 @@ O projeto utiliza o **Sample Database** do Metabase (H2), que simula dados reais
 
 ---
 
-## 📚 Referências
+## Referências
 
 - [Metabase API Documentation](https://www.metabase.com/docs/latest/api-documentation)
 - [Metabase Self-Hosting Guide](https://www.metabase.com/docs/latest/installation-and-operation/installing-metabase)
@@ -132,7 +132,7 @@ O projeto utiliza o **Sample Database** do Metabase (H2), que simula dados reais
 
 ---
 
-## 📄 Licença
+## Licença
 
 MIT License — sinta-se livre para usar, modificar e distribuir.
 
